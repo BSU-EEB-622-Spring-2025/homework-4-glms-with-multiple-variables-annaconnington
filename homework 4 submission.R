@@ -81,7 +81,7 @@ predictions(my_mod, new=data.frame(
          "2012", "2012")))
 
 
-### ASW: nice work! Please let me know when you take a second pass what follow up questions you have. 26/30
+### ASW: nice work! Please let me know when you take a second pass what follow up questions you have. 25/30
 
 ## Question 2:
 treemortality <- read.csv("treemortality.csv")
@@ -137,5 +137,5 @@ plot_predictions(mod.agg2, condition=c("thinning")) +
 ## ASW: great work developing this code. See above for some refresher info about interpreting coefficients from binomial glms, and try to reflect on a) how much the effect of thinning shifted between the two models; and b) why that shift occurred! 15/20
                  
                  
-## ASW: great work! 41/50
+## ASW: great work! 40/50
                                   
